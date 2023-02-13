@@ -1,8 +1,15 @@
 # Mushroom-Classification-Web-App
 This is a web app built to classify different categories of mushroom using machine learning.
 
-## CORRELATION MAP
-![image](https://user-images.githubusercontent.com/106440078/218404484-13cc9d4d-ef2b-4f97-a224-51ba5bbd2f1b.png)
+## PERFORMANCE REPORT
+* Accuracy: 99.75%
+* Precision: 99.755%
+* Recall: 99.75%
+* F1-Score: 99.753%
+
+## CLASS-WISE PERFORMANCE REPORT
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/106440078/218406673-0a9167de-bef0-48f5-aaa2-e3fa0ffdc8d3.png">
+
 
 ## CONFUSION MATRIX
-![image](https://user-images.githubusercontent.com/106440078/218405924-b59e10f2-4a41-4ea7-a6b3-f67d195e9b1a.png)
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/106440078/218406063-010f22a9-7799-4352-a292-29c335c3fbb5.png">
